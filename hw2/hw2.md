@@ -8,9 +8,9 @@
 ### golden section method
 ![](https://i.imgur.com/kRwYknJ.png)
 #### parameters:
-`a = -2`
-`b = 2`
-`ep = 10 ** (-7)`
+`a = -2`  
+`b = 2`  
+`ep = 10 ** (-7)`  
 
 ### Dichotomous search method
 ![](https://i.imgur.com/SPAKAfo.png)
@@ -30,25 +30,25 @@
 ![](https://i.imgur.com/6pF70w8.png)
 #### parameters:
 `(x, y) = (0, -5)`  
-`ep1 = 10 ** (-5)`
+`ep1 = 10 ** (-5)`  
 `ep2 = 10 ** (-7)`
 
 ![](https://i.imgur.com/anDx7sL.png)
 #### parameters:
 `(x, y) = (-5, 5)`  
-`ep1 = 10 ** (-5)`
+`ep1 = 10 ** (-5)`  
 `ep2 = 10 ** (-7)`
 
 ![](https://i.imgur.com/thRl3SF.png)
 #### parameters:
 `(x, y) = (5, 2)`  
-`ep1 = 10 ** (-5)`
+`ep1 = 10 ** (-5)`  
 `ep2 = 10 ** (-7)`
 
 ![](https://i.imgur.com/VHjb74O.png)
 #### parameters:
 `(x, y) = (2, -2)`  
-`ep1 = 10 ** (-5)`
+`ep1 = 10 ** (-5)`  
 `ep2 = 10 ** (-7)`
 
 ## Q3
