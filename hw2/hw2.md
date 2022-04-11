@@ -1,0 +1,101 @@
+# HW2 report
+
+## Q1
+![](https://i.imgur.com/bbLGE8H.png)
+
+## result
+
+### golden section method
+![](https://i.imgur.com/kRwYknJ.png)
+#### parameters:
+`a = -2`
+`b = 2`
+`ep = 10 ** (-7)`
+
+### Dichotomous search method
+![](https://i.imgur.com/SPAKAfo.png)
+#### parameters:
+`a = -2`  
+`b = 2`  
+`delta = 0.0000001`  
+`ep = 10 ** (-5)`
+
+## Q2
+![](https://i.imgur.com/ZWc4lIl.png)
+![](https://i.imgur.com/uBbhkDd.png)
+
+## result
+
+### cyclic coordinate method
+![](https://i.imgur.com/6pF70w8.png)
+#### parameters:
+`(x, y) = (0, -5)`  
+`ep1 = 10 ** (-5)`
+`ep2 = 10 ** (-7)`
+
+![](https://i.imgur.com/anDx7sL.png)
+#### parameters:
+`(x, y) = (-5, 5)`  
+`ep1 = 10 ** (-5)`
+`ep2 = 10 ** (-7)`
+
+![](https://i.imgur.com/thRl3SF.png)
+#### parameters:
+`(x, y) = (5, 2)`  
+`ep1 = 10 ** (-5)`
+`ep2 = 10 ** (-7)`
+
+![](https://i.imgur.com/VHjb74O.png)
+#### parameters:
+`(x, y) = (2, -2)`  
+`ep1 = 10 ** (-5)`
+`ep2 = 10 ** (-7)`
+
+## Q3
+![](https://i.imgur.com/7Ikt4Wz.png)
+
+## result
+
+### Nelder-Mead downhill simplex method
+![](https://i.imgur.com/XBi83Ri.png)
+
+#### parameters
+`p1 = [0, -5]`  
+`p2 = [-5, 0]`  
+`p3 = [5, 5]`  
+`epsilon = 10 ** (-5)`  
+
+![](https://i.imgur.com/wZSl1ez.png)
+#### parameters
+`p1 = [0, -5]`  
+`p2 = [-5, 0]`  
+`p3 = [-5, -5]`  
+`epsilon = 10 ** (-5)`  
+
+![](https://i.imgur.com/uAO8vNf.png)
+#### parameters
+`p1 = [5, 5]`  
+`p2 = [-5, 0]`  
+`p3 = [-5, 5]`  
+`epsilon = 10 ** (-5)`  
+
+![](https://i.imgur.com/raYH4YG.png)
+#### parameters
+`p1 = [5, -5]`  
+`p2 = [0, -5]`  
+`p3 = [0, -2]`  
+`epsilon = 10 ** (-5)`  
+
+![](https://i.imgur.com/IWoFYgS.png)
+#### parameters
+`p1 = [2, -5]`  
+`p2 = [0, -3]`  
+`p3 = [2, -1]`  
+`epsilon = 10 ** (-5)`  
+
+![](https://i.imgur.com/4uueENO.png)
+#### parameters
+`p1 = [2, -5]`  
+`p2 = [2, -4]`  
+`p3 = [4, -4]`  
+`epsilon = 10 ** (-5)`  
