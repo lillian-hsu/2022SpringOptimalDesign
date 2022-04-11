@@ -102,3 +102,4 @@
 
 
 ###### 有些initial point會進入無窮loop，如`p1 = [-5, 0], p2 = [0, 0], p3 = [0, 5]`，還沒解決
+![image](https://user-images.githubusercontent.com/61599898/162715088-ae7a7f95-95d6-4196-a482-9e42572ab3ab.png)
