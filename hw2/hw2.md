@@ -6,14 +6,16 @@
 ## result
 
 ### golden section method
-![](https://i.imgur.com/kRwYknJ.png)
+![](https://i.imgur.com/ppbGRG4.png)
+![](https://i.imgur.com/14gdrAb.png)
 #### parameters:
 `a = -2`  
 `b = 2`  
 `ep = 10 ** (-7)`  
 
 ### Dichotomous search method
-![](https://i.imgur.com/SPAKAfo.png)
+![](https://i.imgur.com/9JaSDWg.png)
+![](https://i.imgur.com/xDIImLL.png)
 #### parameters:
 `a = -2`  
 `b = 2`  
